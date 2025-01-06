@@ -1,5 +1,7 @@
 # Trabalho de Estatística
+
 Aluno: Carlos Henrique de Almeida Leal
+
 Docente: Rosa
 
 Este é um projeto que utiliza o Poetry para gerenciar dependências e ambientes virtuais. Siga as instruções abaixo para inicializar o projeto.
